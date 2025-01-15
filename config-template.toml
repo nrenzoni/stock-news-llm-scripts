@@ -1,0 +1,18 @@
+[mongo]
+local = ""
+remote = ""
+
+[gemini]
+api_keys = []
+models = []
+
+[clickhouse]
+username = ""
+password = ""
+database = ""
+
+[motherduck]
+token = ""
+
+[embedding_server]
+host = ""
